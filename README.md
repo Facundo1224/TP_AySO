@@ -3,3 +3,6 @@ TP1 ARQ Y SO 2025
 Alumno: <Facundo Mercado>
 División: <114>
 Turno: <Turno Mañana>
+Alumno: Nombre
+División: 114
+Turno: Turno Mañana
